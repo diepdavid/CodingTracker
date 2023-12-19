@@ -4,15 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
-            Console.WriteLine("Hello, CSharp!!! One more modification.");
+            void MyFirstMethod()
+            {
+                // Do something
+            }
+
+            void MySecondMethod()
+            {
+                // Do something
+            }
+
+            void MyThirdMethod()
+            {
+                // Do something
+            }
         }
     }
 }
